@@ -1,4 +1,4 @@
-# Predictive Maintenance System Using LSTM Model
+# Predictive Maintenance System Using Ml and LSTM Model
 
 ## Introduction
 This project aims to develop a predictive maintenance system for industrial machinery using Long Short-Term Memory (LSTM) neural networks. The goal is to accurately predict machinery failures, enabling timely maintenance and reducing operational disruptions and costs.
